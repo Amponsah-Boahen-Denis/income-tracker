@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from './App.js'
 
-function index() {
+function Index() {
     return (
         <div>
             <App/>
